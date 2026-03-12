@@ -1,5 +1,10 @@
 Landing Page Project
 
+Demo
+You can view a live demo of the project here:
+
+[DEMO LINK](https://Vitaligna.github.io/html-css-landing-pages/)
+
 Project Description
 
 This project is a responsive landing page built using HTML and CSS (SCSS).
@@ -45,8 +50,3 @@ Installation and setup:
    npm start
 
 Parcel will start a development server and open the project in your browser.
-
-Demo
-You can view a live demo of the project here:
-
-[DEMO LINK](https://vitaligna.github.io/html-css-landing-pages/)
